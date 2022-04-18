@@ -1,0 +1,59 @@
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojResolveAssemblyReference.cache
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.Cache
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+C:\Users\crashtestdammi\Desktop\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojResolveAssemblyReference.cache
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.Cache
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+U:\! Arbeit\2016_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+U:\! Arbeit\2016_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+U:\! Arbeit\2016_17\I14\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojResolveAssemblyReference.cache
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+H:\! Schuljahr16_17\I14\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.Cache
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojResolveAssemblyReference.cache
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.Cache
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+H:\! Schuljahr16_17\I15\Test C#\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojAssemblyReference.cache
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.cache
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.CoreCompileInputs.cache
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+H:\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe.config
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.exe
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\bin\Debug\Grundrechner10erReihe.pdb
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csprojAssemblyReference.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Properties.Resources.resources
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.GenerateResource.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.csproj.CoreCompileInputs.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.exe
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_20_21\TIG19IS\04 Test C#_I19\Grundrechner10erReihe\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.pdb

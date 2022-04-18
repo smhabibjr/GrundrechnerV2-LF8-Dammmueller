@@ -1,0 +1,50 @@
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\bin\Debug\GrundrechnerV2.exe.config
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\bin\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\bin\Debug\GrundrechnerV2.pdb
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.csprojAssemblyReference.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\Grundrechner10erReihe.Frm_haupt.resources
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.Properties.Resources.resources
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.csproj.GenerateResource.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.csproj.CoreCompileInputs.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2.0\Grundrechner10erReihe\obj\Debug\GrundrechnerV2.pdb
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe.config
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\bin\Debug\GrundrechnerV2.pdb
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.csprojAssemblyReference.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.Frm_haupt.resources
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.Properties.Resources.resources
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.GenerateResource.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.CoreCompileInputs.cache
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\04 Test2 C#_I19\GrundrechnerV2\GrundrechnerV2\obj\Debug\GrundrechnerV2.pdb
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe.config
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.pdb
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csprojAssemblyReference.cache
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Frm_haupt.resources
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Properties.Resources.resources
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.GenerateResource.cache
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.CoreCompileInputs.cache
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.exe
+E:\Dammmüller\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.pdb
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe.config
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.pdb
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.AssemblyReference.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Frm_haupt.resources
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Properties.Resources.resources
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.GenerateResource.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.CoreCompileInputs.cache
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.exe
+\\KSERVER\snv30\BSZET\Lehrer\dammmueller\SJ_21_22\LF8\Tests_Datenfelder\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.pdb
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe.config
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.exe
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\bin\Debug\GrundrechnerV2.pdb
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.AssemblyReference.cache
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Frm_haupt.resources
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.Properties.Resources.resources
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.GenerateResource.cache
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.csproj.CoreCompileInputs.cache
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.exe
+C:\Users\Habib\Desktop\GrundrechnerV2_Vorlage\GrundrechnerV2\obj\Debug\GrundrechnerV2.pdb
